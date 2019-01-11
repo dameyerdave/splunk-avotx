@@ -1,0 +1,6 @@
+[]
+access = read: [*], write: []
+export = system
+
+[views]
+export = none
